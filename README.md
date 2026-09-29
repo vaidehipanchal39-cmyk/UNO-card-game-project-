@@ -1,7 +1,7 @@
 # UNO-card-game-project-
 Project Title
 
-\n UNO Card Game – Player vs Computer
+UNO Card Game – Player vs Computer
 📖 Overview of the Project
 This project is a simple UNO card game developed using Python. The game allows a human player to play UNO against a computer opponent through the command-line/console.
 The program creates and shuffles a standard UNO-style deck, deals cards to the player and computer, checks whether cards can be played, handles special cards such as Skip, Reverse, Draw 2, Wild, and Wild Draw 4, and determines the winner.
